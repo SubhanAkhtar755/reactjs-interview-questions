@@ -1,46 +1,10 @@
 # React Interview Questions & Answers
 
-> Click :star: if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star: if you like the project. Pull Requests are highly appreciated. Follow me [@SubhanAkhtar](https://twitter.com/subhanakhtar07) for technical updates.
 
 ---
 
-<div>
-<p align="center">
-  <a href="https://www.greatfrontend.com/questions/react-interview-questions?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react&fpr=sudheerj&gnrs=sudheerj">
-    <img src="./images/collab/greatfrontend-react.gif" alt="GreatFrontEnd React Interview Questions" width="100%">
-  </a>
-</p>
-</div>
-
-> Practice 280+ JavaScript coding interview questions in-browser. Built by ex-FAANG interviewers. No AI-generated fluff. No fake reviews. [Try GreatFrontEnd →](https://www.greatfrontend.com/questions/react-interview-questions?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react&fpr=sudheerj&gnrs=sudheerj) 💡
-
----
-
-<div>
-<p align="center">
-  <a href="https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions">
-    <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2" alt="ZTM Logo" width="100" height="50">
-  </a>
-    <ol>
-      <li>I recommend this <a href="https://links.zerotomastery.io/react_sudheer">React course</a> if you’re serious about learning React and want to go beyond the basics.</li>
-      <li>Want to ace your coding interview and get hired at your dream company? <a href="http://links.zerotomastery.io/mci_sudheer">Take this coding interview bootcamp</a>.</li>
-    </ol>
-  </p>
-</div>
-
----
-
-<div>
-<p align="center">
-  <a href="https://resumeloom.com/?ref=FZ818184">
-    <img src="./images/collab/resumeloom.png" alt="Resume Loom" width="100%" height="">
-  </a>
-</p>
-</div>
-
----
-
-**Note:** This repository is specific to ReactJS. Please check [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) for core JavaScript questions and [Data Structures and Algorithms](https://github.com/sudheerj/datastructures-algorithms) for DSA-related questions or problems.
+**Note:** This repository is specific to ReactJS.
 
 ### Table of Contents
 
